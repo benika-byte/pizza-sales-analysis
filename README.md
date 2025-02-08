@@ -18,5 +18,4 @@ months. This information can help businesses prepare for peak seasons and adjust
 operations accordingly.  
 Overall, this Power BI project provides a data-driven approach to managing a pizza business. It 
 transforms raw sales data into meaningful insights that help improve efficiency and profitability. 
-Whether you are a small pizza shop or a large chain, this report can be a valuable tool to 
-optimize your sales strategy
+
